@@ -1,1 +1,23 @@
 @import "tailwindcss";
+
+
+img{
+  box-shadow: 0 0 20px rgba(0,0,0,0.3);
+  transition: 0.5s;
+}
+
+img:hover{
+  box-shadow: 0 0 80px rgb(246, 243, 243);
+}
+
+h2{
+  color: white;
+}
+
+.carddiv:hover{
+  box-shadow: 0 0 80px rgb(246, 243, 243);
+}
+
+hr{
+  color: white;
+}
