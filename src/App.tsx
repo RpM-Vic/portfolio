@@ -12,6 +12,9 @@ function App() {
           <p className="text-white mt-2">Ingeniero en mecatrónica</p>
           <p className="text-white mt-2">Tecnológico de León 2014-2019</p>
           <p className="text-white mt-2">Ciencia, tecnología, libertad</p>
+          <p className="text-white mt-2">        <a href="mailto:&#114;&#112;&#109;&#46;&#118;&#105;&#99;&#46;&#100;&#101;&#118;&#101;&#108;&#111;&#112;&#101;&#114;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
+          &#114;&#112;&#109;&#46;&#118;&#105;&#99;&#46;&#100;&#101;&#118;&#101;&#108;&#111;&#112;&#101;&#114;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;
+        </a></p>
         </div>
       </div>
       <hr className="my-10" />
