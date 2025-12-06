@@ -4,14 +4,16 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "build": "remix vite:build",
     "dev": "remix vite",
+    "dev2": "vite",
     "build2": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "build": "remix build"
+    "preview": "vite preview"
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.9",
+    "animejs": "^4.0.1",
     "framer-motion": "^12.4.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",

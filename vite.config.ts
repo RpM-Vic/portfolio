@@ -7,5 +7,8 @@ export default defineConfig({
   plugins: [react(),tailwindcss()],
   server:{
     host:"0.0.0.0"
-  }
+  },
+  build: {
+    cssMinify: false, // Disable CSS minification
+  },
 })
